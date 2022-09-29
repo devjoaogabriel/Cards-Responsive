@@ -4,7 +4,7 @@
 
 Projeto contruido junto ao video do Canal Bedimcode
 
-[🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/Cards-Responsive/)
 
 ## ⚒️ Tecnologias:
 
