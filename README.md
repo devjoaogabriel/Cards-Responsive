@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.jpg)
 
-Projeto contruido junto ao video do Canal Bedimcode
+Projeto construido junto ao video do Canal Bedimcode
 
 [🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/Cards-Responsive/)
 
